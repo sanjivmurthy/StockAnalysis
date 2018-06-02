@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
 data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
-pprint(data['4. close'])
+pprint(data['timestamp'])
 # data['4. close'].plot()
 # plt.title('Intraday Times Series for the MSFT stock (1 min)')
 

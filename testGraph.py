@@ -1,46 +1,30 @@
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
-import pandas as pd
+import plotly
+import plotly.plotly as py
+# plotly.tools.set_credentials_file(username='sanjivp98', api_key='9EVZEvNLfHMrOyGTuja9')
+# plotly.sign_in("sanjivp98", "9EVZEvNLfHMrOyGTuja9")
+
 import plotly.graph_objs as go
+import plotly.figure_factory as FF
 
-app = dash.Dash()
-
-df = pd.read_csv(
-    'https://gist.githubusercontent.com/chriddyp/' +
-    '5d1ea79569ed194d432e56108a04d188/raw/' +
-    'a9f9e8076b837d541398e999dcbac2b2826a81f8/'+
-    'gdp-life-exp-2007.csv')
+import numpy as np
+import pandas as pd
 
 
-app.layout = html.Div([
-    dcc.Graph(
-        id='life-exp-vs-gdp',
-        figure={
-            'data': [
-                go.Scatter(
-                    x=df[df['continent'] == i]['gdp per capita'],
-                    y=df[df['continent'] == i]['life expectancy'],
-                    text=df[df['continent'] == i]['country'],
-                    mode='markers',
-                    opacity=0.7,
-                    marker={
-                        'size': 15,
-                        'line': {'width': 0.5, 'color': 'white'}
-                    },
-                    name=i
-                ) for i in df.continent.unique()
-            ],
-            'layout': go.Layout(
-                xaxis={'type': 'log', 'title': 'GDP Per Capita'},
-                yaxis={'title': 'Life Expectancy'},
-                margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
-                legend={'x': 0, 'y': 1},
-                hovermode='closest'
-            )
-        }
-    )
-])
+
+df = pd.read_csv('https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MSFT&interval=1min&apikey=361NZHAPWQW945GZ&datatype=csv')
+
+df_external_source = FF.create_table(df.head())
+py.iplot(df_external_source, filename='MSFT Share Price (Minute)')
+
+
+trace = go.Scatter(x = df['timestamp'], y = df['close'],
+                  name='MSFT (Microsoft)')
+layout = go.Layout(title='MSFT Intraday Prices',
+                   plot_bgcolor='rgb(230, 230,230)', 
+                   showlegend=True)
+fig = go.Figure(data=[trace], layout=layout)
+
+py.iplot(fig, filename='MSFT Intraday Prices')
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=True)

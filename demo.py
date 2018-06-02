@@ -4,6 +4,8 @@ import dash_core_components as dcc
 import dash_html_components as html
 #from pandas_datareader import data as web
 from datetime import datetime as dt
+import numpy as np
+import pandas as pd
 
 
 #############################################
@@ -15,33 +17,51 @@ import matplotlib.pyplot as plt
 
 app = dash.Dash()
 
+colors = {                                     
+    'background': '#001016',                   
+    'text': '#fff9f9'                          
+}  
+
 app.layout = html.Div([
-    html.H1('Stock Tickers'),
+    html.H1('Minute by Minute Stock Analysis'),
     dcc.Dropdown(
         id='my-dropdown',
         options=[
-            {'label': 'Coke', 'value': 'COKE'},
+            {'label': 'Microsoft', 'value': 'MSFT'},
             {'label': 'Tesla', 'value': 'TSLA'},
-            {'label': 'Apple', 'value': 'AAPL'}
+            {'label': 'Apple', 'value': 'AAPL'},
+            {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
+            {'label': 'Disney', 'value': 'DIS'},
+            {'label': 'Facebook', 'value': 'FB'},
+            {'label': 'Bank of America', 'value': 'BAC'},
+            {'label': 'Netflix', 'value': 'NFLX'},
+            {'label': 'Twitter', 'value': 'TWTR'},
+            {'label': 'Nike', 'value': 'NKE'}
         ],
-        value='COKE'
+        value='MSFT'
     ),
     dcc.Graph(id='my-graph')
 ])
 
 
+
 @app.callback(Output('my-graph', 'figure'), [Input('my-dropdown', 'value')])
 def update_graph(selected_dropdown_value):
+
+    x = selected_dropdown_value
 
     # df = web.DataReader(
     #     selected_dropdown_value, data_source='google',
     #     start=dt(2018, 1, 1), end=dt.now())
-    ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
-    data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
+    # ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
+    # data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
+    data = 'https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=' + x + '&interval=1min&apikey=361NZHAPWQW945GZ&datatype=csv'
+    #df = pd.read_csv('https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MSFT&interval=1min&apikey=361NZHAPWQW945GZ&datatype=csv')
+    df = pd.read_csv(data)
     return {
         'data': [{
-            'x': dt(2018, 1, 1),
-            'y': data['4. close']
+            'x': df['timestamp'],
+            'y': df['close']
         }]
     }
 
