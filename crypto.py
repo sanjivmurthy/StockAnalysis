@@ -23,22 +23,22 @@ colors = {
 }  
 
 app.layout = html.Div([
-    html.H1('Stock Price by the Minute'),
+    html.H1('Crypto Price by the Minute'),
     dcc.Dropdown(
         id='my-dropdown',
         options=[
-            {'label': 'Microsoft', 'value': 'MSFT'},
-            {'label': 'Tesla', 'value': 'TSLA'},
-            {'label': 'Apple', 'value': 'AAPL'},
-            {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
-            {'label': 'Disney', 'value': 'DIS'},
-            {'label': 'Facebook', 'value': 'FB'},
-            {'label': 'Bank of America', 'value': 'BAC'},
-            {'label': 'Netflix', 'value': 'NFLX'},
-            {'label': 'Twitter', 'value': 'TWTR'},
-            {'label': 'Nike', 'value': 'NKE'}
+            {'label': 'Bitcoin', 'value': 'BTC'},
+            {'label': 'Bitcoin Cash', 'value': 'BCH'},
+            {'label': 'Litecoin', 'value': 'LTC'},
+            {'label': 'Etherium', 'value': 'ETH'},
+            {'label': 'Dashcoin', 'value': 'DSH'},
+            {'label': 'Monero', 'value': 'XMR'},
+            {'label': 'Ripple', 'value': 'XRP'},
+            {'label': 'ZCash', 'value': 'ZEC'},
+            {'label': 'OmiseGo', 'value': 'OMG'},
+            {'label': 'Steem', 'value': 'STEEM'}
         ],
-        value='MSFT'
+        value='BTC'
     ),
     dcc.Graph(id='my-graph')
 ])
@@ -55,13 +55,13 @@ def update_graph(selected_dropdown_value):
     #     start=dt(2018, 1, 1), end=dt.now())
     # ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
     # data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
-    data = 'https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=' + x + '&interval=1min&apikey=361NZHAPWQW945GZ&datatype=csv'
-    #df = pd.read_csv('https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MSFT&interval=1min&apikey=361NZHAPWQW945GZ&datatype=csv')
-    df = pd.read_csv(data)
+    #data = 'https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol=' + x + '&market=EUR&apikey=361NZHAPWQW945GZ&datatype=csv'
+    df = pd.read_csv('https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol='+ x + '&market=EUR&apikey=361NZHAPWQW945GZ&datatype=csv')
+    #df = pd.read_csv(data)
     return {
         'data': [{
             'x': df['timestamp'],
-            'y': df['close']
+            'y': df['price (USD)']
         }]
     }
 
