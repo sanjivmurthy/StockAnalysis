@@ -16,14 +16,16 @@ import matplotlib.pyplot as plt
 ##############################################
 
 app = dash.Dash()
+app2 = dash.Dash()
 
 colors = {                                     
     'background': '#001016',                   
     'text': '#fff9f9'                          
 }  
 
-app.layout = html.Div([
-    html.H1('Stock Price by the Minute'),
+app.layout =  html.Div([
+
+    html.Div([ html.H1('Stock Price by the Minute'),
     dcc.Dropdown(
         id='my-dropdown',
         options=[
@@ -40,8 +42,27 @@ app.layout = html.Div([
         ],
         value='MSFT'
     ),
-    dcc.Graph(id='my-graph')
-])
+    dcc.Graph(id='my-graph')]),
+
+    html.Div([ html.H2('Crypto Price by the Minute'),
+    dcc.Dropdown(
+        id='my-dropdown2',
+        options=[
+            {'label': 'Bitcoin', 'value': 'BTC'},
+            {'label': 'Bitcoin Cash', 'value': 'BCH'},
+            {'label': 'Litecoin', 'value': 'LTC'},
+            {'label': 'Etherium', 'value': 'ETH'},
+        ],
+        value='BTC'
+    ),
+    dcc.Graph(id='my-graph2')
+    ])
+
+    ])
+
+
+
+
 
 
 
@@ -62,6 +83,31 @@ def update_graph(selected_dropdown_value):
         'data': [{
             'x': df['timestamp'],
             'y': df['close']
+        }]
+    }
+
+if __name__ == '__main__':
+    app.run_server()
+
+
+
+@app.callback(Output('my-graph2', 'figure'), [Input('my-dropdown2', 'value')])
+def update_graph2(selected_dropdown_value):
+
+    x = selected_dropdown_value
+
+    # df = web.DataReader(
+    #     selected_dropdown_value, data_source='google',
+    #     start=dt(2018, 1, 1), end=dt.now())
+    # ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
+    # data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
+    #data = 'https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol=' + x + '&market=EUR&apikey=361NZHAPWQW945GZ&datatype=csv'
+    df = pd.read_csv('https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol='+ x + '&market=EUR&apikey=361NZHAPWQW945GZ&datatype=csv')
+    #df = pd.read_csv(data)
+    return {
+        'data': [{
+            'x': df['timestamp'],
+            'y': df['price (USD)']
         }]
     }
 
