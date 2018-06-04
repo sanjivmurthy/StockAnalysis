@@ -38,7 +38,7 @@ app.layout =  html.Div([
         ],
         value='BTC'
     ),
-    dcc.Graph(id='my-graph2')
+    dcc.Graph(id='my-graph2' , style = {'width': '49%', 'display': 'inline-block'})
     ]),
 
     html.Div([ html.H2('Stock Price by the Minute'),
@@ -59,7 +59,7 @@ app.layout =  html.Div([
         value='MSFT'
     )]),
 
-    html.Div([html.Div(dcc.Graph(id='my-graph')),
+    html.Div([html.Div(dcc.Graph(id='my-graph'), style = {'width': '49%', 'display': 'inline-block'}),
               html.Div(dcc.Graph(id='my-graph2'))
     ])
 
