@@ -16,7 +16,6 @@ import matplotlib.pyplot as plt
 ##############################################
 
 app = dash.Dash()
-app2 = dash.Dash()
 
 colors = {                                     
     'background': '#001016',                   
@@ -27,8 +26,8 @@ app.layout =  html.Div([
 
     html.Div([html.H1('Prices by the Minute (Trading Hours: Monday-Friday 9:30:00 - 16:00:00)')]),
 
-    html.Div([ html.H2('Crypto Price by the Minute'),
-    dcc.Dropdown(
+    html.Div([ html.H2('Crypto Price by the Minute (Europe)'),
+    dcc.RadioItems(
         id='crypto',
         options=[
             {'label': 'Bitcoin', 'value': 'BTC'},
@@ -36,13 +35,13 @@ app.layout =  html.Div([
             {'label': 'Litecoin', 'value': 'LTC'},
             {'label': 'Etherium', 'value': 'ETH'},
         ],
-        value='BTC'
-    ),
-    dcc.Graph(id='my-graph2' , style = {'width': '49%', 'display': 'inline-block'})
+        value='BTC' , style = {'width': '49%', 'float': 'left'}
+    )
+    ,dcc.Graph(id='my-graph2' , style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '50px'})
     ]),
 
-    html.Div([ html.H2('Stock Price by the Minute'),
-    dcc.Dropdown(
+    html.Div([ html.H2('Stock Price by the Minute (US)' , style = {'position' : 'relative' , 'top' : '20px'}),
+    dcc.RadioItems(
         id='stock',
         options=[
             {'label': 'Microsoft', 'value': 'MSFT'},
@@ -56,27 +55,10 @@ app.layout =  html.Div([
             {'label': 'Twitter', 'value': 'TWTR'},
             {'label': 'Nike', 'value': 'NKE'}
         ],
-        value='MSFT'
-    )]),
-
-    html.Div([html.Div(dcc.Graph(id='my-graph'), style = {'width': '49%', 'display': 'inline-block'}),
-              html.Div(dcc.Graph(id='my-graph2'))
-    ])
-
-    # html.Div([ html.H2('Crypto Price by the Minute'),
-    # dcc.Dropdown(
-    #     id='my-dropdown2',
-    #     options=[
-    #         {'label': 'Bitcoin', 'value': 'BTC'},
-    #         {'label': 'Bitcoin Cash', 'value': 'BCH'},
-    #         {'label': 'Litecoin', 'value': 'LTC'},
-    #         {'label': 'Etherium', 'value': 'ETH'},
-    #     ],
-    #     value='BTC'
-    # ),
-    # dcc.Graph(id='my-graph2')
-    # ])
-
+        value='MSFT' , style = {'width': '49%', 'float': 'left' , 'position' : 'relative' , 'top' : '20px' }
+    )
+    , dcc.Graph(id='my-graph', style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '70px' })
+    ]),
     ])
 
 
