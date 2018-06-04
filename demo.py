@@ -24,7 +24,7 @@ colors = {
 
 app.layout =  html.Div([
 
-    html.Div([html.H1('Prices by the Minute (Trading Hours: Monday-Friday 9:30:00 - 16:00:00)')]),
+    html.Div([html.H1('Live Market Sentiment Analysis')]),
 
     html.Div([ html.H2('Crypto Price by the Minute (Europe)'),
     dcc.RadioItems(
@@ -41,6 +41,7 @@ app.layout =  html.Div([
     ]),
 
     html.Div([ html.H2('Stock Price by the Minute (US)' , style = {'position' : 'relative' , 'top' : '20px'}),
+    html.Div([ html.H3('Trading Hours: Monday-Friday 9:30:00 - 16:00:00' , style = {'position' : 'relative' , 'top' : '20px'})]),
     dcc.RadioItems(
         id='stock',
         options=[
