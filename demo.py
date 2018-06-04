@@ -25,9 +25,25 @@ colors = {
 
 app.layout =  html.Div([
 
-    html.Div([ html.H1('Stock Price by the Minute'),
+    html.Div([html.H1('Prices by the Minute (Trading Hours: Monday-Friday 9:30:00 - 16:00:00)')]),
+
+    html.Div([ html.H2('Crypto Price by the Minute'),
     dcc.Dropdown(
-        id='my-dropdown',
+        id='crypto',
+        options=[
+            {'label': 'Bitcoin', 'value': 'BTC'},
+            {'label': 'Bitcoin Cash', 'value': 'BCH'},
+            {'label': 'Litecoin', 'value': 'LTC'},
+            {'label': 'Etherium', 'value': 'ETH'},
+        ],
+        value='BTC'
+    ),
+    dcc.Graph(id='my-graph2')
+    ]),
+
+    html.Div([ html.H2('Stock Price by the Minute'),
+    dcc.Dropdown(
+        id='stock',
         options=[
             {'label': 'Microsoft', 'value': 'MSFT'},
             {'label': 'Tesla', 'value': 'TSLA'},
@@ -41,32 +57,31 @@ app.layout =  html.Div([
             {'label': 'Nike', 'value': 'NKE'}
         ],
         value='MSFT'
-    ),
-    dcc.Graph(id='my-graph')]),
+    )]),
 
-    html.Div([ html.H2('Crypto Price by the Minute'),
-    dcc.Dropdown(
-        id='my-dropdown2',
-        options=[
-            {'label': 'Bitcoin', 'value': 'BTC'},
-            {'label': 'Bitcoin Cash', 'value': 'BCH'},
-            {'label': 'Litecoin', 'value': 'LTC'},
-            {'label': 'Etherium', 'value': 'ETH'},
-        ],
-        value='BTC'
-    ),
-    dcc.Graph(id='my-graph2')
+    html.Div([html.Div(dcc.Graph(id='my-graph')),
+              html.Div(dcc.Graph(id='my-graph2'))
     ])
 
+    # html.Div([ html.H2('Crypto Price by the Minute'),
+    # dcc.Dropdown(
+    #     id='my-dropdown2',
+    #     options=[
+    #         {'label': 'Bitcoin', 'value': 'BTC'},
+    #         {'label': 'Bitcoin Cash', 'value': 'BCH'},
+    #         {'label': 'Litecoin', 'value': 'LTC'},
+    #         {'label': 'Etherium', 'value': 'ETH'},
+    #     ],
+    #     value='BTC'
+    # ),
+    # dcc.Graph(id='my-graph2')
+    # ])
+
     ])
 
 
 
-
-
-
-
-@app.callback(Output('my-graph', 'figure'), [Input('my-dropdown', 'value')])
+@app.callback(Output('my-graph', 'figure'), [Input('stock', 'value')])
 def update_graph(selected_dropdown_value):
 
     x = selected_dropdown_value
@@ -86,12 +101,10 @@ def update_graph(selected_dropdown_value):
         }]
     }
 
-if __name__ == '__main__':
-    app.run_server()
 
 
 
-@app.callback(Output('my-graph2', 'figure'), [Input('my-dropdown2', 'value')])
+@app.callback(Output('my-graph2', 'figure'), [Input('crypto', 'value')])
 def update_graph2(selected_dropdown_value):
 
     x = selected_dropdown_value
@@ -113,3 +126,5 @@ def update_graph2(selected_dropdown_value):
 
 if __name__ == '__main__':
     app.run_server()
+
+
