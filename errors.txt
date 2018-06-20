@@ -2668,3 +2668,3883 @@ index -1 is out of bounds for axis 0 with size 0
 name 'buttons' is not defined
 name 'buttons' is not defined
 name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 10000': fts5: syntax error near "="
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': fts5: syntax error near "="
+Execution failed on sql 'SELECT sentiment.* FROM sentiment_fts fts LEFT JOIN sentiment ON fts.rowid = sentiment.id WHERE fts.sentiment_fts MATCH ? ORDER BY fts.rowid DESC LIMIT 1000': fts5: syntax error near "="
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+division by zero
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+Recursive use of cursors not allowed.
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0

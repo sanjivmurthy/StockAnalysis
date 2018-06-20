@@ -51,7 +51,8 @@ MAX_DF_LENGTH = 100
 app = dash.Dash(__name__)
 app.layout = html.Div(
     [   html.Div(className='container-fluid', children=[html.H2('Live Twitter Sentiment', style={'color':"#CECECE"}),
-                                                        #html.H5('Search:', style={'color':app_colors['text']}),
+                                             
+                                                       #html.H5('Search:', style={'color':app_colors['text']}),
                                               #     dcc.RadioItems(
                                               #     id='sentiment_term',
                                               #     options=[
@@ -71,14 +72,14 @@ app.layout = html.Div(
                                                   dcc.RadioItems(
                                                           id='sentiment_term',
                                                           options=[
-                                                              {'label': 'Bitcoin', 'value': 'BTC'},
-                                                              {'label': 'Bitcoin Cash', 'value': 'BCH'},
-                                                              {'label': 'Litecoin', 'value': 'LTC'},
-                                                              {'label': 'Etherium', 'value': 'ETH'},
-                                                              {'label': 'Coindash', 'value': 'CDT'},
-                                                              {'label': 'DigitalCoin', 'value': 'CGC'},
+                                                              {'label': 'Apple', 'value': 'AAPL'},
+                                                              {'label': 'Facebook', 'value': 'FB'},
+                                                              {'label': 'Twitter', 'value': 'TWTR'},
+                                                              {'label': 'Netflix', 'value': 'NFLX'},
+                                                              {'label': 'Amazon', 'value': 'AMZN'},
+                                                              {'label': 'Google', 'value': 'GOOGL'},
                                                           ],
-                                                          value='BTC' , style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
+                                                          value='Apple' , style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
                                                       ),
                                                   ],
                  style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000}),

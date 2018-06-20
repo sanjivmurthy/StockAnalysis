@@ -50,15 +50,47 @@ MAX_DF_LENGTH = 100
 
 app = dash.Dash(__name__)
 app.layout = html.Div(
-    [   html.Div(className='container-fluid', children=[html.H2('Live Twitter Sentiment', style={'color':"#CECECE"}),
-                                                        html.H5('Search:', style={'color':app_colors['text']}),
-                                                  dcc.Input(id='sentiment_term', value='twitter', type='text', style={'color':app_colors['someothercolor']}),
+    [   html.Div(className='container-fluid', children=[html.H2('Live Twitter Sentiment', style={'color':"#CECECE"})
+      #,
+                                                        #html.H5('Search:', style={'color':app_colors['text']}),
+                                                  #dcc.Input(id='sentiment_term', value='twitter', type='text', style={'color':app_colors['someothercolor']}),
                                                   ],
                  style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000}),
 
         
-        
-        html.Div(className='row', children=[html.Div(id='related-sentiment', children=html.Button('Loading related terms...', id='related_term_button'), className='col s12 m6 l6', style={"word-wrap":"break-word"}),
+        # html.Div([ html.H3('Crypto Price by the Minute'),
+        # dcc.RadioItems(
+        #     id='crypto',
+        #     options=[
+        #         {'label': 'Bitcoin', 'value': 'BTC'},
+        #         {'label': 'Bitcoin Cash', 'value': 'BCH'},
+        #         {'label': 'Litecoin', 'value': 'LTC'},
+        #         {'label': 'Etherium', 'value': 'ETH'},
+        #         {'label': 'Coindash', 'value': 'CDT'},
+        #         {'label': 'DigitalCoin', 'value': 'CGC'},
+        #     ],
+        #     value='BTC' 
+        #     #, style = {'width': '49%', 'float': 'left'}
+        # )
+        # # ,dcc.Graph(id='my-graph2' , style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '50px'})
+        # ]),
+
+         dcc.RadioItems(
+            id='sentiment_term',
+            options=[
+                {'label': 'Apple', 'value': 'AAPL'},
+                {'label': 'Facebook', 'value': 'FB'},
+                {'label': 'Twitter', 'value': 'TWTR'},
+                {'label': 'Netflix', 'value': 'NFLX'},
+                {'label': 'Amazon', 'value': 'AMZN'},
+                {'label': 'Google', 'value': 'GOOGL'},
+            ],
+            value='Apple' , style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
+        ),
+          
+        html.Div(className='row', children=[html.Div(id='related-sentiment',
+              #children=html.Button('Loading related terms...', id='related_term_button'), 
+              className='col s12 m6 l6', style={"word-wrap":"break-word"}),
                                             html.Div(id='recent-trending', className='col s12 m6 l6', style={"word-wrap":"break-word"})]),
 
         html.Div(className='row', children=[html.Div(dcc.Graph(id='live-graph', animate=False), className='col s12 m6 l6'),
@@ -417,13 +449,13 @@ def update_related_terms(sentiment_term):
         smin = min(sizes)
         smax = max(sizes) - smin  
 
-        buttons = [html.H5('Terms related to "{}": '.format(sentiment_term), style={'color':app_colors['text']})]+[html.Span(term, style={'color':sentiment_colors[round(related_terms[term][0]*2)/2],
-                                                              'margin-right':'15px',
-                                                              'margin-top':'15px',
-                                                              'font-size':'{}%'.format(generate_size(related_terms[term][1], smin, smax))}) for term in related_terms]
+        # buttons = [html.H5('Terms related to "{}": '.format(sentiment_term), style={'color':app_colors['text']})]+[html.Span(term, style={'color':sentiment_colors[round(related_terms[term][0]*2)/2],
+        #                                                       'margin-right':'15px',
+        #                                                       'margin-top':'15px',
+        #                                                       'font-size':'{}%'.format(generate_size(related_terms[term][1], smin, smax))}) for term in related_terms]
 
 
-        return buttons
+        # return buttons
         
 
     except Exception as e:
@@ -467,13 +499,13 @@ def update_recent_trending(sentiment_term):
         smin = min(sizes)
         smax = max(sizes) - smin  
 
-        buttons = [html.H5('Recently Trending Terms: ', style={'color':app_colors['text']})]+[html.Span(term, style={'color':sentiment_colors[round(related_terms[term][0]*2)/2],
-                                                              'margin-right':'15px',
-                                                              'margin-top':'15px',
-                                                              'font-size':'{}%'.format(generate_size(related_terms[term][1], smin, smax))}) for term in related_terms]
+        # buttons = [html.H5('Recently Trending Terms: ', style={'color':app_colors['text']})]+[html.Span(term, style={'color':sentiment_colors[round(related_terms[term][0]*2)/2],
+        #                                                       'margin-right':'15px',
+        #                                                       'margin-top':'15px',
+        #                                                       'font-size':'{}%'.format(generate_size(related_terms[term][1], smin, smax))}) for term in related_terms]
 
 
-        return buttons
+        # return buttons
         
 
     except Exception as e:
