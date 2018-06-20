@@ -1,0 +1,2670 @@
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+
+Looks like you are missing some required data for this feature.
+
+To download the necessary data, simply run
+
+    python -m textblob.download_corpora
+
+or use the NLTK downloader to download the missing data: http://nltk.org/data.html
+If this doesn't fix the problem, file an issue at https://github.com/sloria/TextBlob/issues.
+
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'related_sentiments' is not defined
+name 'related_sentiments' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+integer division or modulo by zero
+integer division or modulo by zero
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+index -1 is out of bounds for axis 0 with size 0
+name 'buttons' is not defined
+name 'buttons' is not defined
+name 'buttons' is not defined
