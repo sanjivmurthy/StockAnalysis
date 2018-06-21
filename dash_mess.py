@@ -50,43 +50,62 @@ MAX_DF_LENGTH = 100
 
 app = dash.Dash(__name__)
 app.layout = html.Div(
-    [   html.Div(className='container-fluid', children=[html.H2('Live Twitter Sentiment', style={'color':"#CECECE"}),
-                                             
-                                                       #html.H5('Search:', style={'color':app_colors['text']}),
-                                              #     dcc.RadioItems(
-                                              #     id='sentiment_term',
-                                              #     options=[
-                                              #         {'label': 'Microsoft', 'value': 'MSFT'},
-                                              #         {'label': 'Tesla', 'value': 'TSLA'},
-                                              #         {'label': 'Apple', 'value': 'AAPL'},
-                                              #         # {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
-                                              #         {'label': 'Disney', 'value': 'DIS'},
-                                              #         # {'label': 'Facebook', 'value': 'FB'},
-                                              #         # {'label': 'Bank of America', 'value': 'BAC'},
-                                              #         {'label': 'Netflix', 'value': 'NFLX'},
-                                              #         {'label': 'Twitter', 'value': 'TWTR'},
-                                              #         {'label': 'Nike', 'value': 'NKE'}
-                                              #     ],
-                                              #     value='MSFT' , style = {'width': '49%', 'float': 'left' , 'position' : 'relative' , 'top' : '20px' }
-                                              # ),
-                                                  dcc.RadioItems(
-                                                          id='sentiment_term',
-                                                          options=[
-                                                              {'label': 'Apple', 'value': 'AAPL'},
-                                                              {'label': 'Facebook', 'value': 'FB'},
-                                                              {'label': 'Twitter', 'value': 'TWTR'},
-                                                              {'label': 'Netflix', 'value': 'NFLX'},
-                                                              {'label': 'Amazon', 'value': 'AMZN'},
-                                                              {'label': 'Google', 'value': 'GOOGL'},
-                                                          ],
-                                                          value='Apple' , style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
-                                                      ),
-                                                  ],
-                 style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000}),
+    [   html.Div(className='container-fluid', children=[html.H3('Live Twitter Sentiment of Stocks', style={'color':"#CECECE"}),
+       
+                 #html.H5('Search:', style={'color':app_colors['text']}),
+        #     dcc.RadioItems(
+        #     id='sentiment_term',
+        #     options=[
+        #         {'label': 'Microsoft', 'value': 'MSFT'},
+        #         {'label': 'Tesla', 'value': 'TSLA'},
+        #         {'label': 'Apple', 'value': 'AAPL'},
+        #         # {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
+        #         {'label': 'Disney', 'value': 'DIS'},
+        #         # {'label': 'Facebook', 'value': 'FB'},
+        #         # {'label': 'Bank of America', 'value': 'BAC'},
+        #         {'label': 'Netflix', 'value': 'NFLX'},
+        #         {'label': 'Twitter', 'value': 'TWTR'},
+        #         {'label': 'Nike', 'value': 'NKE'}
+        #     ],
+        #     value='MSFT' , style = {'width': '49%', 'float': 'left' , 'position' : 'relative' , 'top' : '20px' }
+        # ),
 
+            html.Div([dcc.Dropdown(
+                    id='sentiment_term',
+                    options=[
+                        {'label': 'Apple', 'value': 'Apple'},
+                        {'label': 'Facebook', 'value': 'Facebook'},
+                        {'label': 'Twitter', 'value': 'Twitter'},
+                        {'label': 'Netflix', 'value': 'Netflix'},
+                        {'label': 'Amazon', 'value': 'Amazon'},
+                        {'label': 'Google', 'value': 'Google'},
+                    ],
+                    value='Apple' 
+                    #, style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
+                ),
+                ], style = {'width': '49%', 'float': 'left'})
 
-        
-        
+        ,html.Div([ html.H3('Stock Price by the Minute (US)' , style = {'position' : 'relative' , 'top' : '20px', 'color':"#CECECE"}),
+        html.Div([ html.H6('Trading Hours: Monday-Friday 9:30:00 - 16:00:00 EST' , style = {'position' : 'relative' , 'top' : '20px', 'color':"#CECECE"})]),
+        dcc.Dropdown(
+            id='stock',
+                    options=[
+                        {'label': 'Apple', 'value': 'AAPL'},
+                        {'label': 'Facebook', 'value': 'FB'},
+                        {'label': 'Twitter', 'value': 'TWTR'},
+                        {'label': 'Netflix', 'value': 'NFLX'},
+                        {'label': 'Amazon', 'value': 'AMZN'},
+                        {'label': 'Google', 'value': 'GOOGL'},
+                    ],
+                    value='AAPL' 
+                    #, style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
+        )
+        , dcc.Graph(id='my-graph', style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '70px' })
+        ]),
+                                                      ],
+
+                     style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000}),
+
         html.Div(className='row', children=[html.Div(id='related-sentiment', 
                   # children=html.Button('Loading related terms...', id='related_term_button'), 
                                             className='col s12 m6 l6', style={"word-wrap":"break-word"}),
@@ -517,7 +536,25 @@ def update_recent_trending(sentiment_term):
             f.write(str(e))
             f.write('\n')
 
+@app.callback(Output('my-graph', 'figure'), [Input('stock', 'value')])
+def update_graph(selected_dropdown_value):
 
+    x = selected_dropdown_value
+
+    # df = web.DataReader(
+    #     selected_dropdown_value, data_source='google',
+    #     start=dt(2018, 1, 1), end=dt.now())
+    # ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
+    # data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
+    data = 'https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=' + x + '&interval=1min&apikey=361NZHAPWQW945GZ&datatype=csv'
+    #df = pd.read_csv('https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=MSFT&interval=1min&apikey=361NZHAPWQW945GZ&datatype=csv')
+    df = pd.read_csv(data)
+    return {
+        'data': [{
+            'x': df['timestamp'],
+            'y': df['close']
+        }]
+    }
             
             
 
