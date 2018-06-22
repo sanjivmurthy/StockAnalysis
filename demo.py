@@ -24,9 +24,14 @@ colors = {
 
 app.layout =  html.Div([
 
-    html.Div([html.H1('Live Market Sentiment Analysis')]),
+    html.Div([html.H1('Live Market Sentiment Analysis', style = {'position' : 'relative' , 'top' : '15px'})]),
 
-    html.Div([ html.H2('Crypto Price by the Minute (Europe)'),
+    html.Div([ html.H2('Crypto Price by the Minute', style = {'float' : 'left'} ),
+    html.Div([ html.H2('Stock Price by the Minute (US)', style = {'float' : 'left', 'margin-left':'28%'} ),
+    # # html.Div([ html.H3('bullshit space waster' , style = {'float' : 'left' , 'top' : '30px' })]),
+    # html.Div([ html.H3('Trading Hours: Monday-Friday 9:30:00 - 16:00:00 EST' , style = {'float' : 'left' ,'margin-left':'50%'})]),
+
+
     dcc.RadioItems(
         id='crypto',
         options=[
@@ -34,31 +39,34 @@ app.layout =  html.Div([
             {'label': 'Bitcoin Cash', 'value': 'BCH'},
             {'label': 'Litecoin', 'value': 'LTC'},
             {'label': 'Etherium', 'value': 'ETH'},
+            {'label': 'Coindash', 'value': 'CDT'},
+            {'label': 'DigitalCoin', 'value': 'CGC'},
         ],
-        value='BTC' , style = {'width': '49%', 'float': 'left'}
+        value='BTC' , style = {'float': 'left' ,'width': '49%', 'top' : '150px'}
     )
-    ,dcc.Graph(id='my-graph2' , style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '50px'})
+    ,dcc.Graph(id='my-graph2' , style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '150px'})
     ]),
 
-    html.Div([ html.H2('Stock Price by the Minute (US)' , style = {'position' : 'relative' , 'top' : '20px'}),
-    html.Div([ html.H3('Trading Hours: Monday-Friday 9:30:00 - 16:00:00' , style = {'position' : 'relative' , 'top' : '20px'})]),
+    html.Div([ html.H2('Stock Price by the Minute (US)' , style = {'position' : 'relative' ,'top' : '15px','left':'50%', 'margin-right':'0'}),
+    html.Div([ html.H3('Trading Hours: Monday-Friday 9:30:00 - 16:00:00 EST' , style = {'position' : 'relative' ,'left':'50%', 'margin-right':'0'})]),
     dcc.RadioItems(
         id='stock',
         options=[
             {'label': 'Microsoft', 'value': 'MSFT'},
             {'label': 'Tesla', 'value': 'TSLA'},
             {'label': 'Apple', 'value': 'AAPL'},
-            {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
+            # {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
             {'label': 'Disney', 'value': 'DIS'},
-            {'label': 'Facebook', 'value': 'FB'},
-            {'label': 'Bank of America', 'value': 'BAC'},
+            # {'label': 'Facebook', 'value': 'FB'},
+            # {'label': 'Bank of America', 'value': 'BAC'},
             {'label': 'Netflix', 'value': 'NFLX'},
             {'label': 'Twitter', 'value': 'TWTR'},
             {'label': 'Nike', 'value': 'NKE'}
         ],
-        value='MSFT' , style = {'width': '49%', 'float': 'left' , 'position' : 'relative' , 'top' : '20px' }
+        value='MSFT' , style = {'width': '49%', 'position' : 'relative' , 'left':'50%', 'margin-right':'0' }
     )
-    , dcc.Graph(id='my-graph', style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '70px' })
+    , dcc.Graph(id='my-graph', style = {'width': '49%' , 'position' : 'relative' , 'left':'50%', 'margin-right':'0' })
+    ]),
     ]),
     ])
 
@@ -97,8 +105,8 @@ def update_graph2(selected_dropdown_value):
     #     start=dt(2018, 1, 1), end=dt.now())
     # ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
     # data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
-    #data = 'https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol=' + x + '&market=EUR&apikey=361NZHAPWQW945GZ&datatype=csv'
-    df = pd.read_csv('https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol='+ x + '&market=EUR&apikey=361NZHAPWQW945GZ&datatype=csv')
+    #data = 'https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol=BTC&market=USD&apikey=demo&datatype=csv'
+    df = pd.read_csv('https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol='+ x + '&market=USD&apikey=361NZHAPWQW945GZ&datatype=csv')
     #df = pd.read_csv(data)
     return {
         'data': [{

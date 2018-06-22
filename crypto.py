@@ -24,7 +24,7 @@ colors = {
 
 app.layout = html.Div([
     html.H1('Crypto Price by the Minute'),
-    dcc.Dropdown(
+    dcc.RadioItems(
         id='my-dropdown',
         options=[
             {'label': 'Bitcoin', 'value': 'BTC'},
