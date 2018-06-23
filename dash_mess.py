@@ -50,7 +50,56 @@ MAX_DF_LENGTH = 100
 
 app = dash.Dash(__name__)
 app.layout = html.Div(
-    [   html.Div(className='container-fluid', children=[html.H3('Live Twitter Sentiment of Stocks', style={'color':"#CECECE"}),
+    [   html.Div(className='container-fluid', children=[
+
+        html.Div([ html.H2('Live Market Sentiment Analysis' , style = {'text-align' : 'center' ,'color':"#CECECE",'position' : 'relative' , 'top' : '10px', 'left': '0px'}),
+        html.Div([ html.H4('Crypto Price by the Minute', style = {'color':"#CECECE", 'float' : 'left'} ),
+        html.Div([ html.H4('Stock Price by the Minute (Dollar)', style = {'color':"#CECECE",'float' : 'right'} ),
+        # html.Div([ html.H6('Trading Hours: 24 Hours' , style = {'color':"#CECECE",'float' : 'left' , 'text-align':'left'})]),
+        # html.Div([ html.H6('Trading Hours: Monday-Friday 9:30:00 - 16:00:00 EST' , style = {'color':"#CECECE",'float' : 'right' , 'position' : 'relative' ,'top' : '10px', 'text-align':'right'})]),
+        html.Div([dcc.Dropdown(
+                        id='crypto',
+                        options=[
+                            {'label': 'Bitcoin', 'value': 'BTC'},
+                            {'label': 'Bitcoin Cash', 'value': 'BCH'},
+                            {'label': 'Litecoin', 'value': 'LTC'},
+                            {'label': 'Etherium', 'value': 'ETH'},
+                            {'label': 'Coindash', 'value': 'CDT'},
+                            {'label': 'DigitalCoin', 'value': 'CGC'},
+                        ],
+                        value='BTC' , placeholder="Select a stock"
+                    ),
+                ], style = {'float': 'left' ,'width': '49%'})
+        , 
+
+        html.Div([dcc.Dropdown(
+                    id='stock',
+                    options=[
+                        {'label': 'Microsoft', 'value': 'MSFT'},
+                        {'label': 'Tesla', 'value': 'TSLA'},
+                        {'label': 'Apple', 'value': 'AAPL'},
+                        # {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
+                        {'label': 'Disney', 'value': 'DIS'},
+                        # {'label': 'Facebook', 'value': 'FB'},
+                        # {'label': 'Bank of America', 'value': 'BAC'},
+                        {'label': 'Netflix', 'value': 'NFLX'},
+                        {'label': 'Twitter', 'value': 'TWTR'},
+                        {'label': 'Nike', 'value': 'NKE'}
+                    ],
+                    value='MSFT' , placeholder="Select stock"
+                ),
+                ], style = {'float': 'right' ,'width': '49%'}),
+
+    dcc.Graph(id='my-graph2' , style = {'width': '49%','position' : 'relative' , 'float':'left', 'margin-right':'0' })
+    ]), dcc.Graph(id='my-graph', style = {'width': '49%','position' : 'relative' , 'float':'right', 'margin-left':'0'}),
+
+        # dcc.Graph(id='my-graph', style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '75px'})
+        # ]),], style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000}),
+
+
+
+
+      # html.H4('Live Twitter Sentiment of Stocks', style={'color':"#CECECE",'position' : 'relative' , 'top' : '30px'}),
        
                  #html.H5('Search:', style={'color':app_colors['text']}),
         #     dcc.RadioItems(
@@ -83,28 +132,9 @@ app.layout = html.Div(
                     value='Apple' 
                     #, style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
                 ),
-                ], style = {'width': '49%', 'float': 'left'})
+                ], style = {'width': '49%', 'float': 'left', 'position' : 'relative' , 'top' : '30px'}),
 
-        ,html.Div([ html.H3('Stock Price by the Minute (US)' , style = {'position' : 'relative' , 'top' : '20px', 'color':"#CECECE"}),
-        html.Div([ html.H6('Trading Hours: Monday-Friday 9:30:00 - 16:00:00 EST' , style = {'position' : 'relative' , 'top' : '20px', 'color':"#CECECE"})]),
-        dcc.Dropdown(
-            id='stock',
-                    options=[
-                        {'label': 'Apple', 'value': 'AAPL'},
-                        {'label': 'Facebook', 'value': 'FB'},
-                        {'label': 'Twitter', 'value': 'TWTR'},
-                        {'label': 'Netflix', 'value': 'NFLX'},
-                        {'label': 'Amazon', 'value': 'AMZN'},
-                        {'label': 'Google', 'value': 'GOOGL'},
-                    ],
-                    value='AAPL' 
-                    #, style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
-        )
-        , dcc.Graph(id='my-graph', style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '70px' })
-        ]),
-                                                      ],
 
-                     style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000}),
 
         html.Div(className='row', children=[html.Div(id='related-sentiment', 
                   # children=html.Button('Loading related terms...', id='related_term_button'), 
@@ -143,8 +173,11 @@ app.layout = html.Div(
             interval=60*1000
         ),
 
-    ], style={'backgroundColor': app_colors['background'], 'margin-top':'-30px', 'height':'2000px',},
-)
+    ], style={'backgroundColor': app_colors['background'], 'margin-top':'0px', 'height':'2000px'},
+),
+]),
+]),
+], style={'backgroundColor': app_colors['background']} )
 
 
 def df_resample_sizes(df, maxlen=MAX_DF_LENGTH):
@@ -553,10 +586,39 @@ def update_graph(selected_dropdown_value):
         'data': [{
             'x': df['timestamp'],
             'y': df['close']
-        }]
+        }],
+        'layout' : {
+            'title' : 'Stock Price ', 
+            'yaxis':{'title': 'Price (USD)'},
+            'xaxis':{'title': 'Time Elapsed'}
+        }
     }
             
-            
+
+@app.callback(Output('my-graph2', 'figure'), [Input('crypto', 'value')])
+def update_graph2(selected_dropdown_value):
+
+    x = selected_dropdown_value
+
+    # df = web.DataReader(
+    #     selected_dropdown_value, data_source='google',
+    #     start=dt(2018, 1, 1), end=dt.now())
+    # ts = TimeSeries(key='361NZHAPWQW945GZ', output_format='pandas')
+    # data, meta_data = ts.get_intraday(symbol='MSFT',interval='1min', outputsize='full')
+    #data = 'https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol=BTC&market=USD&apikey=demo&datatype=csv'
+    df = pd.read_csv('https://www.alphavantage.co/query?function=DIGITAL_CURRENCY_INTRADAY&symbol='+ x + '&market=USD&apikey=361NZHAPWQW945GZ&datatype=csv')
+    #df = pd.read_csv(data)
+    return {
+        'data': [{
+            'x': df['timestamp'],
+            'y': df['price (USD)']
+        }],
+        'layout': {
+                'title' : 'Cryptocurrency Price', 
+                'yaxis':{'title': 'Price (USD)'},
+                'xaxis':{'title': 'Time Elapsed'}
+            }
+    }            
 
 external_css = ["https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css"]
 for css in external_css:
