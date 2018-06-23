@@ -24,11 +24,11 @@ colors = {
 
 app.layout =  html.Div([
 
-    html.Div([html.H1('Live Market Sentiment Analysis', style = {'position' : 'relative' , 'top' : '15px'})]),
+    html.Div([html.H1('Live Market Sentiment Analysis', style = {'text-align' : 'center' , 'top' : '15px'})]),
 
     html.Div([ html.H2('Crypto Price by the Minute', style = {'float' : 'left'} ),
     html.Div([ html.H2('Stock Price by the Minute (US)', style = {'float' : 'left', 'margin-left':'50%'} ),
-    html.Div([ html.H3('bullshit space waster' , style = {'float' : 'left' })]),
+    html.Div([ html.H3('Trading Hours: 24 Hours' , style = {'float' : 'left' })]),
     html.Div([ html.H3('Trading Hours: Monday-Friday 9:30:00 - 16:00:00 EST' , style = {'float' : 'left' ,'margin-left':'50%'})]),
 
 
@@ -58,7 +58,7 @@ app.layout =  html.Div([
             {'label': 'Twitter', 'value': 'TWTR'},
             {'label': 'Nike', 'value': 'NKE'}
         ],
-        value='MSFT' , style = {'float': 'right' , 'margin-right':'0','width': '49%', 'top' : '150px'}
+        value='MSFT' , style = {'float': 'right' ,'width': '35%', 'top' : '150px'}
     )
     ,
     dcc.Graph(id='my-graph2' , style = {'width': '49%','position' : 'relative' , 'float':'left', 'margin-right':'0'})
