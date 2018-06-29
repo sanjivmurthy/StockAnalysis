@@ -52,7 +52,7 @@ app = dash.Dash(__name__)
 app.layout = html.Div(
     [   html.Div(className='container-fluid', children=[
 
-        html.Div([ html.H2('Live Market Sentiment Analysis' , style = {'text-align' : 'center' ,'color':"#CECECE",'position' : 'relative' , 'top' : '10px', 'left': '0px'}),
+        html.Div([ html.H2('Live Market Sentiment vs. Price' , style = {'text-align' : 'center' ,'color':"#CECECE",'position' : 'relative' , 'top' : '10px', 'left': '0px'}),
         html.Div([ html.H4('Crypto Price by the Minute', style = {'color':"#CECECE", 'float' : 'left'} ),
         html.Div([ html.H4('Stock Price by the Minute (Dollar)', style = {'color':"#CECECE",'float' : 'right'} ),
         # html.Div([ html.H6('Trading Hours: 24 Hours' , style = {'color':"#CECECE",'float' : 'left' , 'text-align':'left'})]),
@@ -67,7 +67,7 @@ app.layout = html.Div(
                             {'label': 'Coindash', 'value': 'CDT'},
                             {'label': 'DigitalCoin', 'value': 'CGC'},
                         ],
-                        value='BTC' , placeholder="Select a stock"
+                        value='BTC' 
                     ),
                 ], style = {'float': 'left' ,'width': '49%'})
         , 
@@ -78,15 +78,12 @@ app.layout = html.Div(
                         {'label': 'Microsoft', 'value': 'MSFT'},
                         {'label': 'Tesla', 'value': 'TSLA'},
                         {'label': 'Apple', 'value': 'AAPL'},
-                        # {'label': 'Berkshire Hathaway', 'value': 'BRK.A'},
                         {'label': 'Disney', 'value': 'DIS'},
-                        # {'label': 'Facebook', 'value': 'FB'},
-                        # {'label': 'Bank of America', 'value': 'BAC'},
                         {'label': 'Netflix', 'value': 'NFLX'},
                         {'label': 'Twitter', 'value': 'TWTR'},
                         {'label': 'Nike', 'value': 'NKE'}
                     ],
-                    value='MSFT' , placeholder="Select stock"
+                    value='MSFT' 
                 ),
                 ], style = {'float': 'right' ,'width': '49%'}),
 
@@ -94,10 +91,7 @@ app.layout = html.Div(
     ]), dcc.Graph(id='my-graph', style = {'width': '49%','position' : 'relative' , 'float':'right', 'margin-left':'0'}),
 
         # dcc.Graph(id='my-graph', style = {'width': '49%', 'left': '0px' , 'position' : 'relative' , 'top' : '75px'})
-        # ]),], style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000}),
-
-
-
+        # ]),], style={'width':'98%','margin-left':10,'margin-right':10,'max-width':50000})
 
       # html.H4('Live Twitter Sentiment of Stocks', style={'color':"#CECECE",'position' : 'relative' , 'top' : '30px'}),
        
@@ -122,6 +116,21 @@ app.layout = html.Div(
             html.Div([dcc.Dropdown(
                     id='sentiment_term',
                     options=[
+                        {'label': 'Bitcoin', 'value': 'Bitcoin'},
+                        {'label': 'Bitcoin Cash', 'value': 'Bitcoin Cash'},
+                        {'label': 'Litecoin', 'value': 'Litecoin'},
+                        {'label': 'Etherium', 'value': 'Etherium'},
+                        {'label': 'Coindash', 'value': 'Coindash'},
+                        {'label': 'DigitalCoin', 'value': 'DigitalCoin'},
+                    ],
+                    placeholder="Select Cryptocurrency" , value='Bitcoin'
+                    #, style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
+                ),
+                ], style = {'width': '49%', 'float': 'left', 'position' : 'relative' , 'top' : '60px'}),
+
+            html.Div([dcc.Dropdown(
+                    id='sentiment_term',
+                    options=[
                         {'label': 'Apple', 'value': 'Apple'},
                         {'label': 'Facebook', 'value': 'Facebook'},
                         {'label': 'Twitter', 'value': 'Twitter'},
@@ -129,10 +138,10 @@ app.layout = html.Div(
                         {'label': 'Amazon', 'value': 'Amazon'},
                         {'label': 'Google', 'value': 'Google'},
                     ],
-                    value='Apple' 
+                    placeholder="Select Stock" , value='Apple'
                     #, style = {'width': '49%', 'float': 'left'} , labelStyle={'display': 'inline-block'}
                 ),
-                ], style = {'width': '49%', 'float': 'left', 'position' : 'relative' , 'top' : '30px'}),
+                ], style = {'width': '49%', 'float': 'right', 'position' : 'relative' , 'top' : '60px'}),
 
 
 
@@ -142,12 +151,12 @@ app.layout = html.Div(
                                             html.Div(id='recent-trending', className='col s12 m6 l6', style={"word-wrap":"break-word"})]),
 
         html.Div(className='row', children=[
-                                            html.Div(dcc.Graph(id='live-graph', animate=False), className='col s12 m6 l6'),
-                                            html.Div(dcc.Graph(id='historical-graph', animate=False), className='col s12 m6 l6')
+                                            html.Div(dcc.Graph(id='live-graph', animate=False , style={'position' : 'relative' , 'top' : '60px'}), className='col s12 m6 l6'),
+                                            html.Div(dcc.Graph(id='historical-graph', animate=False , style={'position' : 'relative' , 'top' : '60px'}), className='col s12 m6 l6')
                                             ]),
 
-        html.Div(className='row', children=[html.Div(id="recent-tweets-table", className='col s12 m6 l6'),
-                                            html.Div(dcc.Graph(id='sentiment-pie', animate=False), className='col s12 m6 l6'),]),
+        html.Div(className='row', children=[html.Div(id="recent-tweets-table", className='col s12 m6 l6' , style={'position' : 'relative' , 'top' : '60px'}),
+                                            html.Div(dcc.Graph(id='sentiment-pie', animate=False , style={'position' : 'relative' , 'top' : '60px'}), className='col s12 m6 l6'),]),
         
         dcc.Interval(
             id='graph-update',
@@ -173,7 +182,7 @@ app.layout = html.Div(
             interval=60*1000
         ),
 
-    ], style={'backgroundColor': app_colors['background'], 'margin-top':'0px', 'height':'2000px'},
+    ], style={'backgroundColor': app_colors['background'], 'margin-top':'0px', 'height':'2300px'},
 ),
 ]),
 ]),
