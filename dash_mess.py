@@ -587,11 +587,15 @@ def update_graph(selected_dropdown_value):
             'x': df['timestamp'],
             'y': df['close']
         }],
-        'layout' : {
-            'title' : 'Stock Price ', 
-            'yaxis':{'title': 'Price (USD)'},
-            'xaxis':{'title': 'Time Elapsed'}
-        }
+        'layout' : go.Layout(
+                          yaxis=dict( title='Price (USD)'),
+                          xaxis=dict( title= 'Time Elapsed'),
+                          title='Stock Price: ',
+                          font={'color':app_colors['text']},
+                          plot_bgcolor = app_colors['background'],
+                          paper_bgcolor = app_colors['background'],
+                          showlegend=False)
+
     }
             
 
@@ -613,11 +617,14 @@ def update_graph2(selected_dropdown_value):
             'x': df['timestamp'],
             'y': df['price (USD)']
         }],
-        'layout': {
-                'title' : 'Cryptocurrency Price', 
-                'yaxis':{'title': 'Price (USD)'},
-                'xaxis':{'title': 'Time Elapsed'}
-            }
+        'layout': go.Layout(
+                          yaxis=dict( title='Price (USD)'),
+                          xaxis=dict( title= 'Time Elapsed'),
+                          title='Cryptocurrency Price: ',
+                          font={'color':app_colors['text']},
+                          plot_bgcolor = app_colors['background'],
+                          paper_bgcolor = app_colors['background'],
+                          showlegend=False)
     }            
 
 external_css = ["https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css"]
